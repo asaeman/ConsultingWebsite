@@ -1,12 +1,12 @@
-- name: Agile Training
+- name: Professional Scrum Training
   percentage: 90
   color: 
 
-- name: Professional Scrum Training
+- name: Agile / Kanban Training
   percentage: 80
   color: success
 
-- name: Kanban Training
+- name: Workshops
   percentage: 70
   color: warning
 

@@ -1,17 +1,18 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: BS Electrical & Computer Engineering <br />Marquette University
+  from: 1998
+  to: 2003
+  description: I graduated with honors while experiencing the world of software development through Marquette's award winning Coop program
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Developer and Consultant
+  from: 2003
+  to: 2012
+  description:  I worked at multiple organizations and consulting firms taking me down a path of learning the craft of software development 
+                to working on agile teams. Working on an agile team was what led me down the path to become an agile coach and trainer. I found 
+                high performaing teams to fun and super engaging and wanted to bring this joy to other and other organizations.
+
+- title: Professional Scrum Trainer <br/>Scrum.org
+  from: 2012
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: After becoming a Professional Scrum Trainer, I continued to work for different consulting firms before starting Andrew Saeman Consulting.
+               I have found my background in development to be a huge assest in my coaching and training of teams while my communication skills and business acumen
+               guide productive conversations across all roles in organizations.
