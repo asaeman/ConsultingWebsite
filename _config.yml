@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Andrew Saeman Consulting
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      Helping teams, leaders, and organizations deliver the value their customers desire.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : asaeman/ConsultingWebsite     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : asaeman/portfolYOU
@@ -24,7 +22,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Andrew Saeman
-  image             : https://bit.ly/2KCvgVJ
+  image             : ../assets/img/achievement-agreement-arms-asian.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : andrew@andrewsaeman.com
@@ -57,10 +55,11 @@ collections:
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: ""
+      path: "assets/img"
       type: "projects"
     values:
       layout: "page"
+      image: true
 
 ### Exclude from processing ###
 exclude:

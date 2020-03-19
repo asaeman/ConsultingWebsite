@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Facilitator
   percentage: 90
+  color: dark
+
+- name: Mentor
+  percentage: 80
+  color: warning
+
+- name: Coach
+  percentage: 70
   color: success
+
+- name: Teacher
+  percentage: 60
+  color: 
