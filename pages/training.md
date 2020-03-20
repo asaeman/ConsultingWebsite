@@ -5,18 +5,23 @@ permalink: /training/
 weight: 3
 ---
 
-# **About Me**
+# **Training**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I am passionate about enabling teams to collaborate and work together to solve difficult problems. I bring a holistic, empathetic, systems thinking approach to guide organizations on their agile journey to ensure alignment and success. I am a proven trainer, facilitator, and coach that has helped organizations of all sizes utilize the agile mindset to delight their customers. I bring my practical expertise in coaching, training, and agile practices to guide organizations to a culture of continuous improvement and innovation.
+Alignment is an important key to success when undertaking any large effort. Training helps build this alignment and can provide a great kickstart to teams and organizations new to agile concepts or provide the boast needed to get your efforts back on track.
 
-I have worked with a wide variety of clients in various business verticals engaging in Agile coaching and training while helping lead organizations through Agile transformations. I guide groups towards a team based approach, showing teams how their collective wisdom will yield powerful results.
+To aid with this alignment, most of the courses offered are aligned with Scrum.org to ensure consistent, high value training. Customized courses and workshops are available upon request.
 
-<div class="row">
-{% include about/skills.html title="Opportunities" source=site.data.programming-skills %}
-{% include about/skills.html title="Skills" source=site.data.other-skills %}
-</div>
+### **Scrum.org Courses**
+{% include projects/index.html %}
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+### **Additional Workshops**
+
+Looking for customized to your specific needs? We are here to help! We offer skilled facilitation and can bring focus to your large group events, kick-offs, retrospectives, or planning sessions.
+
+Here are some areas where we can help
+* Modern Management Tools and Techniques
+* Organizational Agility Assessments
+* Agile Coaching Skills - Level up your agile coaches
+* Agile Testing Techniques
+* Advanced Product Ownership Techniques 
+* Advanced Scrum Master Techniques
