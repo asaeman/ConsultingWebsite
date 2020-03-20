@@ -55,11 +55,9 @@ collections:
 ### Defaults for collections ###
 defaults:
   - scope:
-      path: "assets/img"
       type: "projects"
     values:
       layout: "page"
-      image: true
 
 ### Exclude from processing ###
 exclude:

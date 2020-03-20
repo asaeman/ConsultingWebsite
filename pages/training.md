@@ -25,3 +25,10 @@ Here are some areas where we can help
 * Agile Testing Techniques
 * Advanced Product Ownership Techniques 
 * Advanced Scrum Master Techniques
+
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+    <p><b>Contact Andrew for more information: </b></p>
+    <p><a href="mailto:andrew@andrewsaeman.com">andrew@andrewsaeman.com</a><br />414.702.7786</p>
+  </div>
+</div>

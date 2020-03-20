@@ -5,16 +5,12 @@ image: ..\assets\img\courselogos\Scrumorg-PSF.png
 description: This course the perfect kickstart for your team or could provide the boast to ensure you're getting the most out of Scrum!
 ---
 
-# The Movies Project
+# Professional Scrum Foundations
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The Professional Scrum FoundationsTM (PSF) course is a 2-day course that teaches Scrum by experiencing what it’s like to deliver products using the Scrum framework. Working in a series of Sprints, students break into Scrum Teams fulfilling all of the roles on a team to deliver, simulating real-life problems.
 
 ![preview](..\assets\img\courselogos\Scrumorg-PSF.png)
 
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
-
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html target="_new" link="https://www.scrum.org/courses/professional-scrum-foundations-training" text="Learn More" %}
 </p>
