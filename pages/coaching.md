@@ -10,4 +10,10 @@ weight: 3
 We meet clients where they are and use coaching to help them continue to look for ways to improve.
 Our goal is to ensure those we coach continue on a path of continuous improvement well after our engagement.
 
-One-on-one coaching is great!
+One-on-one coaching is great for:
+* Scrum Masters
+* Product Owners
+* Managers
+* Leaders
+
+We also offer organizational agility assessments and team coaching to guide your team and organization to greater agility.
