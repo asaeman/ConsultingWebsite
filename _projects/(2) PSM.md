@@ -2,7 +2,7 @@
 name: Profession Scrum Master
 tools: [SM]
 image: ..\assets\img\courselogos\Scrumorg-PSM.png
-description: Scrum Questions? Scrum Master needs?
+description: Learn how Scrum can help you optimize value, productivity, and the total cost of product ownership. Perfect for Scrum Masters.
 ---
 
 # Professional Scrum Master

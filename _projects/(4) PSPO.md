@@ -2,7 +2,7 @@
 name: Professional Scrum Product Owner
 tools: [PO]
 image: ..\assets\img\courselogos\Scrumorg-PSPO.png
-description: Show some support by following me!
+description: Product Owners learn techniques to maximize the value of their products.
 ---
 
 # Professional Scrum Developer

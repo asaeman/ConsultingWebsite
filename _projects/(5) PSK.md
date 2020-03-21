@@ -2,7 +2,7 @@
 name: Professional Scrum with Kanban
 tools: [Kanban, SM]
 image: ..\assets\img\courselogos\Scrumorg-PSK.png
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
+description: Learn how Kanban metrics can improve your product development flow and bring forth more transparency to your team's efforts.
 ---
 
 # Professional Scrum With Kanban
