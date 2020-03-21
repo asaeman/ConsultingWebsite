@@ -2,11 +2,11 @@
   percentage: 90
   color: 
 
-- name: Agile / Kanban Training
+- name: Agile / Kanban Training / Workshops
   percentage: 80
   color: success
 
-- name: Workshops
+- name: Individual and Team Coaching
   percentage: 70
   color: warning
 
