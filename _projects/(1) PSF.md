@@ -12,5 +12,5 @@ The Professional Scrum FoundationsTM (PSF) course is a 2-day course that teaches
 ![preview](..\assets\img\courselogos\Scrumorg-PSF.png)
 
 <p class="text-center">
-{% include elements/button.html target="_new" link="https://www.scrum.org/courses/professional-scrum-foundations-training" text="Learn More" %}
+{% include elements/button.html target="_blank" link="https://www.scrum.org/courses/professional-scrum-foundations-training" text="Learn More" %}
 </p>

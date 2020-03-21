@@ -12,5 +12,5 @@ Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum prac
 ![preview](..\assets\img\courselogos\Scrumorg-PSK.png)
 
 <p class="text-center">
-{% include elements/button.html target="_new" link="https://www.scrum.org/PSK" text="Learn More" %}
+{% include elements/button.html target="_blank" link="https://www.scrum.org/PSK" text="Learn More" %}
 </p>

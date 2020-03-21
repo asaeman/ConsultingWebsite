@@ -12,5 +12,5 @@ Professional Scrum Product OwnerTM (PSPO) is a 2-day course focused on teaching 
 ![preview](..\assets\img\courselogos\Scrumorg-PSPO.png)
 
 <p class="text-center">
-{% include elements/button.html target="_new" link="https://www.scrum.org/courses/professional-scrum-product-owner-training" text="Learn More" %}
+{% include elements/button.html target="_blank" link="https://www.scrum.org/courses/professional-scrum-product-owner-training" text="Learn More" %}
 </p>

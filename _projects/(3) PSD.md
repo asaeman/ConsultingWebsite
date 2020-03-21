@@ -12,5 +12,5 @@ The Professional Scrum DeveloperTM (PSD) course is a 3-day course that teaches a
 ![preview](..\assets\img\courselogos\Scrumorg-PSD.png)
 
 <p class="text-center">
-{% include elements/button.html target="_new" link="https://www.scrum.org/courses/professional-scrum-developer-training" text="Learn More" %}
+{% include elements/button.html target="_blank" link="https://www.scrum.org/courses/professional-scrum-developer-training" text="Learn More" %}
 </p>

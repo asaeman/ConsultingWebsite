@@ -2,7 +2,7 @@
 name: Profession Scrum Master
 tools: [SM]
 image: ..\assets\img\courselogos\Scrumorg-PSM.png
-description: Learn how Scrum can help you optimize value, productivity, and the total cost of product ownership. Perfect for Scrum Masters.
+description: Learn how Scrum helps you optimize value, productivity, and the total cost of product ownership. Perfect for Scrum Masters.
 ---
 
 # Professional Scrum Master
@@ -12,5 +12,5 @@ The Professional Scrum MasterTM (PSM) course is a 2-day course where students le
 ![preview](..\assets\img\courselogos\Scrumorg-PSM.png)
 
 <p class="text-center">
-{% include elements/button.html target="_new" link="https://www.scrum.org/courses/professional-scrum-master-training" text="Learn More" %}
+{% include elements/button.html target="_blank" link="https://www.scrum.org/courses/professional-scrum-master-training" text="Learn More" %}
 </p>
