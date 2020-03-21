@@ -11,6 +11,13 @@ Alignment is an important key to success when undertaking any large effort. Trai
 
 To aid with this alignment, most of the courses offered are aligned with Scrum.org to ensure consistent, high value training. Customized courses and workshops are available upon request.
 
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+    <p><b>Contact Andrew for more information: </b></p>
+    <p><a href="mailto:andrew@andrewsaeman.com">andrew@andrewsaeman.com</a><br />414.702.7786</p>
+  </div>
+</div>
+
 ### **Scrum.org Courses**
 {% include projects/index.html %}
 
